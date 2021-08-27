@@ -1,1 +1,2 @@
 # Django-demo
+Django Practice
